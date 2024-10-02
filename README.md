@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>  
-<p style="text-align: Center;">
 <body style="background-color:powderblue;">
+
+
+ <p style="text-align: Center;">
 <h2 style="font-size:10px;">My Hobbies, My Likes, and Dislikes</h2>
 
 <img src="emman_face.jpg" alt="Selfie picture of a man" style="width:250px;height:250;">
@@ -45,7 +47,6 @@
  <p>Sunny day</p>
 
 <h1></h1>
-
 
 </body>
 </html># html-code
